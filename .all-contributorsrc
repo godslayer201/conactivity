@@ -1,0 +1,45 @@
+{
+  "projectName": "conactivity",
+  "projectOwner": "ayushjainrksh",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": true,
+  "commitConvention": "none",
+  "contributors": [
+    {
+      "login": "ayushjainrksh",
+      "name": "Ayush Jain",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/33171576?v=4",
+      "profile": "https://github.com/ayushjainrksh",
+      "contributions": [
+        "code",
+        "doc"
+      ]
+    },
+    {
+      "login": "Nancy-Chauhan",
+      "name": "Nancy Chauhan ",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/37153406?v=4",
+      "profile": "http://nancychauhan.in/",
+      "contributions": [
+        "code",
+        "bug"
+      ]
+    },
+    {
+      "login": "godslayer201",
+      "name": "Rachitt Shah",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/57140143?v=4",
+      "profile": "https://godslayer201.github.io/",
+      "contributions": [
+        "doc"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "skipCi": true
+}
